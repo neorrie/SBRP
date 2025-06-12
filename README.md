@@ -1,25 +1,18 @@
 # All-In-One Internal Skill-based Role Portal (SPM_G5_T2)
 <img width="949" alt="image" src="https://github.com/lyw142/SPM_G5_T2/assets/111484155/47978018-2322-4d4d-8e94-35887db63791">
 
-Our new system is a portal for staff to apply for roles and match their skill sets from LJPS with job requirements, facilitating HR and recruiting managers in assessing applicants and enhancing the hiring process within the organization.
+This application serves as a comprehensive internal platform that allows employees to explore and apply for roles within the company based on their skills and qualifications. It also supports HR personnel and hiring managers in evaluating candidates more effectively, streamlining the internal recruitment process, and aligning talent with organizational needs.
 
-## Github Link
-https://github.com/lyw142/SPM_G5_T2
+## Features
+- User Authentication & Role-Based Access: Secure login system with role-based access control. Employees and employers (e.g., HR staff and managers) are presented with different user interfaces and features based on their access levels
+- Job Listing Management (Employers): Create, edit, and manage internal job listings to match organizational needs
+- Job Application Portal (Employees): Browse available internal opportunities and apply for roles that align with their skill sets
 
 ## Recommended IDE Setup
 
 To work on this project, we recommend using the following VS Code extensions:
 
 [VSCode](https://code.visualstudio.com/) + [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Table of Contents
-
-- [Installation](#installation)
-- [Dependencies](#dependencies)
-- [Editor Setup](#editor-setup)
-- [Project Setup](#project-setup)
-- [Cookie Installation](#cookie-installation)
-- [Usage](#usage)
 
 ## Installation
 
